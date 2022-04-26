@@ -1,5 +1,5 @@
 ### Привет, я Никита 👋!
-####Начинающий аналитик данных
+#### Начинающий аналитик данных
 ____
 
 ### Мои учебные проекты:
@@ -24,7 +24,7 @@ ____
 - [Нетология, DataVizArt: Основы визуализации данных](https://netology.ru/backend/api/user/programs/23249/pdf_certificate)
 ____
 
-###Hard skills: SQL / PYTHON / TABLEAU / JUPYTER
+### Hard skills: SQL / PYTHON / TABLEAU / JUPYTER
 
 - 🔭 I’m currently working on this page. 
 
