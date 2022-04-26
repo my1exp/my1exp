@@ -11,6 +11,15 @@
 - ["Сравнительный анализ Bitcoin и Litecoin"](https://github.com/my1exp/Analysis_with_Python/blob/main/%D0%A1%D1%80%D0%B0%D0%B2%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20BTC%20%D0%B8%20LTC.ipynb)
 - ["Автоматизация расчета ФОТ"](https://github.com/my1exp/Analysis_with_Python/blob/main/%D0%A7%D0%B0%D1%81%D1%8B_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B_%D0%9C%D0%B0%D0%B3%D0%BD%D0%B8%D1%82.ipynb)
 
+### Мои сертификаты
+
+- [Stepik, Интерактивный тренажер по SQL]
+- [Stepik, Основы статистики]
+- [Нетология, Основы аналитики и аналитического мышления](https://netology.ru/backend/api/user/programs/20603/pdf_certificate)
+- [Нетология, SQL и получение данных](https://netology.ru/backend/api/user/programs/20674/pdf_certificate)
+- [Нетология, BIG DATA с нуля](https://netology.ru/backend/api/user/programs/20431/pdf_certificate)
+- [Нетология, Метрики, гипотезы, точки роста](https://netology.ru/backend/api/user/programs/23963/pdf_certificate)
+- [Нетология, DataVizArt: Основы визуализации данных](https://netology.ru/backend/api/user/programs/23249/pdf_certificate)
 
 
 Hard skills: SQL / PYTHON / TABLEAU / JUPYTER
