@@ -13,8 +13,8 @@
 
 ### Мои сертификаты
 
-- [Stepik, Интерактивный тренажер по SQL]
-- [Stepik, Основы статистики]
+- [Stepik, Интерактивный тренажер по SQL](https://stepik.org/cert/1467423)
+- [Stepik, Основы статистики](https://stepik.org/cert/1450658)
 - [Нетология, Основы аналитики и аналитического мышления](https://netology.ru/backend/api/user/programs/20603/pdf_certificate)
 - [Нетология, SQL и получение данных](https://netology.ru/backend/api/user/programs/20674/pdf_certificate)
 - [Нетология, BIG DATA с нуля](https://netology.ru/backend/api/user/programs/20431/pdf_certificate)
