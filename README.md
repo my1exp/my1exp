@@ -1,4 +1,4 @@
-### Привет, я Никита 👋!
+### Привет, я [Никита](https://docs.google.com/document/d/18vtS270lYHLqjKEdHLQl4X2uy6rLFYXmoBj1J7S3HDM/edit?usp=sharing) 👋!
 **Начинающий аналитик данных** :chart_with_upwards_trend: :bar_chart:
 ____
 
@@ -30,6 +30,3 @@ ____
 :dart: Tableau, Google Data Studio   
 :dart: Jupyter notebook, Google Colab    
 :dart: Excel (pivot, vlookup)
-
-#### :sunrise: [Резюме](https://docs.google.com/document/d/18vtS270lYHLqjKEdHLQl4X2uy6rLFYXmoBj1J7S3HDM/edit?usp=sharing)
-
