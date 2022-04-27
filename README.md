@@ -15,13 +15,13 @@ ____
 
 ### Мои сертификаты
 
-- [Stepik, Интерактивный тренажер по SQL](https://stepik.org/cert/1467423)
-- [Stepik, Основы статистики](https://stepik.org/cert/1450658)
-- [Нетология, Основы аналитики и аналитического мышления](https://netology.ru/backend/api/user/programs/20603/pdf_certificate)
-- [Нетология, SQL и получение данных](https://netology.ru/backend/api/user/programs/20674/pdf_certificate)
-- [Нетология, BIG DATA с нуля](https://netology.ru/backend/api/user/programs/20431/pdf_certificate)
-- [Нетология, Метрики, гипотезы, точки роста](https://netology.ru/backend/api/user/programs/23963/pdf_certificate)
-- [Нетология, DataVizArt: Основы визуализации данных](https://netology.ru/backend/api/user/programs/23249/pdf_certificate)
+:clipboard: [Stepik, Интерактивный тренажер по SQL](https://stepik.org/cert/1467423)    
+:clipboard: [Stepik, Основы статистики](https://stepik.org/cert/1450658)    
+:scroll: [Нетология, Основы аналитики и аналитического мышления](https://netology.ru/backend/api/user/programs/20603/pdf_certificate)    
+:scroll: [Нетология, SQL и получение данных](https://netology.ru/backend/api/user/programs/20674/pdf_certificate)    
+:scroll: [Нетология, BIG DATA с нуля](https://netology.ru/backend/api/user/programs/20431/pdf_certificate)    
+:scroll: [Нетология, Метрики, гипотезы, точки роста](https://netology.ru/backend/api/user/programs/23963/pdf_certificate)    
+:scroll: [Нетология, DataVizArt: Основы визуализации данных](https://netology.ru/backend/api/user/programs/23249/pdf_certificate)    
 ____
 
 ### Hard skills: SQL / PYTHON / TABLEAU / JUPYTER
