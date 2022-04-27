@@ -24,7 +24,7 @@ ____
 :clipboard: [Нетология, DataVizArt: Основы визуализации данных](https://netology.ru/backend/api/user/programs/23249/pdf_certificate)    
 ____
 
-:small_blue_diamond: ### Hard skills:
+### :small_blue_diamond: Hard skills:
 :dart: SQL    
 :dart: Python    
 :dart: Tableau   
