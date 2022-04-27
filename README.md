@@ -1,5 +1,5 @@
-### Привет, я [Никита](https://docs.google.com/document/d/18vtS270lYHLqjKEdHLQl4X2uy6rLFYXmoBj1J7S3HDM/edit?usp=sharing) 👋!
-**Начинающий аналитик данных** :chart_with_upwards_trend: :bar_chart:
+### Привет, я Никита 👋!
+**[Начинающий аналитик данных](https://docs.google.com/document/d/18vtS270lYHLqjKEdHLQl4X2uy6rLFYXmoBj1J7S3HDM/edit?usp=sharing)** :chart_with_upwards_trend: :bar_chart:
 ____
 
 ### Мои учебные проекты
@@ -9,7 +9,7 @@ ____
 
 ### Мои работы
 
-:white_check_mark: ["Сравнительный анализ Bitcoin и Litecoin"](https://github.com/my1exp/Analysis_with_Python/blob/main/%D0%A1%D1%80%D0%B0%D0%B2%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20BTC%20%D0%B8%20LTC.ipynb)    
+:white_check_mark: ["Сравнительный анализ Bitcoin и Litecoin"](https://github.com/my1exp/Analysis_with_Python/blob/main/crypto_analysis.ipynb)    
 :white_check_mark: ["Автоматизация расчета ФОТ"](https://github.com/my1exp/Analysis_with_Python/blob/main/%D0%A7%D0%B0%D1%81%D1%8B_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B_%D0%9C%D0%B0%D0%B3%D0%BD%D0%B8%D1%82.ipynb)
 ____
 
