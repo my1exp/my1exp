@@ -25,9 +25,11 @@ ____
 ____
 
 ### :small_blue_diamond: Hard skills:
-:dart: SQL    
-:dart: Python    
-:dart: Tableau   
-:dart: Jupyter notebook        
+:dart: SQL (CTE, views, window  functions, subqueries, joins)    
+:dart: Python (Pandas, NumPy, Matplotlib, Plotly, PySpark)    
+:dart: Tableau, Google Data Studio   
+:dart: Jupyter notebook, Google Colab    
+:dart: Excel (pivot, vlookup)
 
-- 🔭 I’m currently working on this page. 
+#### :sunrise: [Резюме](https://docs.google.com/document/d/18vtS270lYHLqjKEdHLQl4X2uy6rLFYXmoBj1J7S3HDM/edit?usp=sharing)
+
