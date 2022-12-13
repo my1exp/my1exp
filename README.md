@@ -1,5 +1,5 @@
-### Привет, я Никита 👋!
-**[Начинающий аналитик данных](https://docs.google.com/document/d/18vtS270lYHLqjKEdHLQl4X2uy6rLFYXmoBj1J7S3HDM/edit?usp=sharing)** :chart_with_upwards_trend: :bar_chart:
+### Привет, я **[Никита](https://docs.google.com/document/d/18vtS270lYHLqjKEdHLQl4X2uy6rLFYXmoBj1J7S3HDM/edit?usp=sharing)** 👋!
+
 ____
 
 ### Мои учебные проекты
