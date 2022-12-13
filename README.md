@@ -27,11 +27,4 @@ ____
 :clipboard: [Нетология, BIG DATA с нуля](https://netology.ru/backend/api/user/programs/20431/pdf_certificate)    
 :clipboard: [Нетология, Метрики, гипотезы, точки роста](https://netology.ru/backend/api/user/programs/23963/pdf_certificate)    
 :clipboard: [Нетология, DataVizArt: Основы визуализации данных](https://netology.ru/backend/api/user/programs/23249/pdf_certificate)    
-____
 
-### :small_blue_diamond: Hard skills
-:dart: SQL (CTE, views, window  functions, subqueries, joins)    
-:dart: Python (Pandas, NumPy, Matplotlib, Plotly, PySpark)    
-:dart: Tableau, Google Data Studio   
-:dart: Jupyter notebook, Google Colab    
-:dart: Excel (pivot, vlookup)
