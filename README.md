@@ -4,6 +4,8 @@ ____
 
 ### Мои учебные проекты
 
+
+:white_check_mark: ["Java REST API"](https://github.com/my1exp/Netology_operation_api)  
 :white_check_mark: ["Big Data с нуля"](https://github.com/my1exp/Analysis_with_Python/blob/main/%D0%98%D1%82%D0%BE%D0%B3%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%22Big%20Data%20c%20%D0%BD%D1%83%D0%BB%D1%8F%22.ipynb)    
 :white_check_mark: ["Итоговая работа SQL"](https://github.com/my1exp/Sql/blob/main/%D0%98%D1%82%D0%BE%D0%B3%D0%BE%D0%B2%D0%B0%D1%8F_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0_SQL.pdf)    
 :white_check_mark: ["DataVizArt: Основы визуализации данных"](https://public.tableau.com/app/profile/nikita8407/viz/DataVizArt_16510866475170/Dashboard1)
