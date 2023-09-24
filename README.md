@@ -5,7 +5,7 @@ ____
 ### Мои учебные проекты
 
       
-  
+:white_check_mark: ["Реализация бота в телеграм "Криптотрекер""](https://github.com/my1exp/Portfolio_crypto_bot/tree/master)
 :white_check_mark: ["Вычисляем важные статистики при помощи MPI"](https://github.com/my1exp/mpi)     
 :white_check_mark: ["Вычисляем скользящие средние при помощи Pycuda"](https://github.com/my1exp/pycuda)    
 :white_check_mark: ["Java REST API"](https://github.com/my1exp/Netology_operation_api)     
