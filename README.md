@@ -11,11 +11,6 @@ ____
 :white_check_mark: ["Java REST API"](https://github.com/my1exp/Netology_operation_api)       
 :white_check_mark: ["Итоговая работа SQL"](https://github.com/my1exp/Sql/blob/main/%D0%98%D1%82%D0%BE%D0%B3%D0%BE%D0%B2%D0%B0%D1%8F_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0_SQL.pdf) 
 
-### Мои работы
-
-:white_check_mark: ["Сравнительный анализ Bitcoin и Litecoin"](https://github.com/my1exp/Analysis_with_Python/blob/main/crypto_analysis.ipynb)    
-:white_check_mark: ["Автоматизация расчета ФОТ"](https://github.com/my1exp/Analysis_with_Python/blob/main/%D0%A7%D0%B0%D1%81%D1%8B_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B_%D0%9C%D0%B0%D0%B3%D0%BD%D0%B8%D1%82.ipynb)
-____
 
 ### Мои сертификаты
 
