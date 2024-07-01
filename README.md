@@ -1,10 +1,10 @@
-### Привет, я **[Никита](https://docs.google.com/document/d/18vtS270lYHLqjKEdHLQl4X2uy6rLFYXmoBj1J7S3HDM/edit?usp=sharing)** 👋!
+### Привет, я Никита👋!
 
 ____
 
 ### Мои учебные проекты
 
-      
+:white_check_mark: ["Интернет-эквайринг для принятия платежей в криптовалюте"](https://github.com/my1exp/YC_Pay)      
 :white_check_mark: ["Реализация бота в телеграм "Криптотрекер""](https://github.com/my1exp/Portfolio_crypto_bot/tree/master)     
 :white_check_mark: ["Вычисляем важные статистики при помощи MPI"](https://github.com/my1exp/mpi)     
 :white_check_mark: ["Вычисляем скользящие средние при помощи Pycuda"](https://github.com/my1exp/pycuda)    
@@ -16,4 +16,3 @@ ____
 
 :clipboard: [Stepik, Интерактивный тренажер по SQL](https://stepik.org/cert/1467423)    
 :clipboard: [Stepik, Основы статистики](https://stepik.org/cert/1450658)     
-
